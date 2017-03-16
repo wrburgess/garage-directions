@@ -17,8 +17,21 @@
 
 ## Map
 
-![alt text][logo]
+![alt text][map]
 
-[logo]: https://github.com/wrburgess/garage-directions/blob/master/assets/images/how_to_get_to_the_garage.png "How to Get to the Garage Map"
 
 ## Pictures
+
+* From Campus Drive, here's the front door
+
+![alt text][entrance]
+
+* Hang a left, past the Peeled Juice place, and take this door (on right) up to the second floor
+
+![alt text][doorway]
+
+[map]: https://github.com/wrburgess/garage-directions/blob/master/assets/images/how_to_get_to_the_garage.png "How to Get to the Garage Map"
+
+[entrance]: https://github.com/wrburgess/garage-directions/blob/master/assets/images/2311_Campus_Drive_Entrance.jpg "Building Entrance"
+
+[doorway]: https://github.com/wrburgess/garage-directions/blob/master/assets/images/Stairway_to_Garage.jpg "Stairway to The Garage"
