@@ -9,13 +9,13 @@
 
 ## Where
 
-* The Garage at Northwestern, (2311 Campus Dr #2300, Evanston, IL 60208)[https://goo.gl/maps/KxWbZ5fxp3E2]
-* (Official Website)[https://thegarage.northwestern.edu/about/the-garage/]
+* The Garage at Northwestern, [2311 Campus Dr #2300, Evanston, IL 60208](https://goo.gl/maps/KxWbZ5fxp3E2)
+* [Official Website](https://thegarage.northwestern.edu/about/the-garage/)
 
 ## Parking
 
-* North Campus Parking Garage, (2311 N Campus Dr, Evanston, IL 60208)[https://goo.gl/maps/dDootfsZvQt]
-* (Look for #105 on the map)[http://www.northwestern.edu/transportation-parking/evanston-parking/parking-map/index.html]
+* North Campus Parking Garage, [2311 N Campus Dr, Evanston, IL 60208](https://goo.gl/maps/dDootfsZvQt)
+* [Look for #105 on the map](http://www.northwestern.edu/transportation-parking/evanston-parking/parking-map/index.html)
 
 * Unless posted, permits are not needed:
   * On official holidays when the University is closed for business
