@@ -17,7 +17,8 @@
 
 ## Map
 
+![alt text][logo]
 
-
+[logo]: https://github.com/wrburgess/garage-directions/blob/master/assets/images/how_to_get_to_the_garage.png "How to Get to the Garage Map"
 
 ## Pictures
